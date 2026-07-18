@@ -16,3 +16,4 @@ An interactive, auto-refreshing dashboard for tracking energy & metals commoditi
 - **Macro factor betas** — multivariate OLS of each commodity vs the macro set, with R².
 - **Energy fundamentals** — EIA weekly inventories, production, refinery utilization, and nat-gas storage (free API key).
 - **Seasonality** — average return by calendar month.
+# OU-PCA
